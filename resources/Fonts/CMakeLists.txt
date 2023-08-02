@@ -1,0 +1,1 @@
+﻿configure_file ("pixelfont.otf" ${CMAKE_BINARY_DIR} COPYONLY)
