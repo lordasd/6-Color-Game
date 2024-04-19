@@ -1,10 +1,10 @@
-OOP 2 - Ex04 - STL & Algorithms SFML 6 Color
+STL & Algorithms SFML 6 Color
 -------------------
 Name: David Zaydenberg
 -------------------
 Summary:
 
-Recreate 6 color game in SFML using STL and it's algorithms and
+Recreation of 6 color game with SFML using STL, algorithms and
 implementing a generic data structure(Graph).
 In this game you have a board with colors and shapes. You play
 agains a computer on 3 difficulties. You choose a color to capture
